@@ -1,0 +1,8 @@
+Package: com.yourname.blackbox
+Name: BlackBoxTweak
+Author: YourName
+Description: A simple tweak to show a black box
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
